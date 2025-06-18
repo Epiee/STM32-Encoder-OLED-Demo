@@ -1,0 +1,47 @@
+# Keil uVision project files
+*.bak
+*.ddf
+*.edk
+*.lst
+*.lnp
+*.mpf
+*.mpj
+*.obj
+*.omf
+*.opt
+*.plg
+*.rpt
+*.sct
+*.tmp
+*.uvguix.*
+*.uvopt
+*.uvproj
+*.uvoptx
+*.uvprojx
+
+# Build output folders
+RTE/
+Objects/
+Listings/
+Debug/
+Release/
+
+# JLink files
+JLinkLog.txt
+JLinkSettings.ini
+
+# Misc
+*.crf
+*.iex
+*.map
+*.sfr
+*.log
+*.elf
+*.axf
+*.hex
+*.bin
+*.__i
+
+# IDE session files
+*.suo
+.vs/
