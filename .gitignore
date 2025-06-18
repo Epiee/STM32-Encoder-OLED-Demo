@@ -17,7 +17,7 @@
 *.uvopt
 *.uvproj
 *.uvoptx
-*.uvprojx
+# *.uvprojx
 
 # Build output folders
 RTE/
